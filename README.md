@@ -11,7 +11,7 @@ Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file in this repository f
 
 ## Code of Conduct
 
-Please refer to the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file in this repository informations on the expected Code of Conduct for contributing to platform-mesh.
+Please refer to the [CODE_OF_CONDUCT.md](https://github.com/platform-mesh/.github/blob/main/CODE_OF_CONDUCT.md) file in this repository informations on the expected Code of Conduct for contributing to platform-mesh.
 
 ## Licensing
 
