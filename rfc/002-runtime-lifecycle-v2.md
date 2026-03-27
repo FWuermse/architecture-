@@ -1,8 +1,10 @@
 # RFC 002: Runtime Lifecycle v2
 
-| Status  | Draft      |
-|---------|------------|
-| Date    | 2026-03-02 |
+| Status  | Implemented                                                                     |
+|---------|------------------------------------------------------------------------------------|
+| Date    | 2026-03-02                                                                         |
+| RFC PR  | [link](https://github.com/platform-mesh/architecture/pull/9)                       |
+| Impl    | [platform-mesh/subroutines](https://github.com/platform-mesh/subroutines)          |
 
 ## Motivation
 
