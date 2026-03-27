@@ -1,4 +1,4 @@
-# RFC 003: Runtime Lifecycle v2
+# RFC 002: Runtime Lifecycle v2
 
 | Status  | Draft      |
 |---------|------------|
