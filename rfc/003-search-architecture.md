@@ -138,8 +138,10 @@ spec:
   # All field lists are auto-populated by the operator from the bound
   # APIResourceSchemas.
   defaultFields:                 # all schema fields (minus exclusions), for full-text search
-    - spec
-    - metadata
+    - spec.name
+    - spec.displayName
+    - spec.region
+    - status.created_at
   semanticFields:                # string-typed fields, for ML-based vector similarity search
     - spec.displayName
     - spec.description
